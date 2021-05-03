@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      // Seus aliases aqui. Exemplo:
+      // "@Card": ["./components/Card/index.tsx"]
+    }
+  }
+}
